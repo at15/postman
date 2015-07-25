@@ -3,6 +3,7 @@
 We need 
 
 - persistent
+- relatively high performance
 - restart of mq itself won't cause trouble
 - restart of client won't cause trouble
 - have php client
