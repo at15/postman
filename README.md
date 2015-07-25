@@ -5,6 +5,8 @@ Deliver emails and sms and push notifications using third party API
 
 ## Road map
 
+see [working](doc/working) for detail
+
 - [ ] chose a message queue
 - [ ] assign jobs to workers
 - [ ] allow client to query job status and get results
