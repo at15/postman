@@ -1,0 +1,5 @@
+*.tgz
+*.gz
+*.tar
+
+kafka_2.1*
