@@ -1,7 +1,15 @@
 # postman
-Deliver emails and sms and push notifications using third party API
+A unify wrapper for using third party API to send email, sms and push
 
 ![postman-logo](postman.png)
+
+## Feature
+
+* not implemented 
+
+- * switch between multiple third party API, like switch to mailgun from qq.
+- * webhook for client, notify them using specified callback when job finished
+- * admin-ui to monitor usage and third party api status
 
 ## Road map
 
